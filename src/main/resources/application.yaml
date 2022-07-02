@@ -1,0 +1,6 @@
+server:
+  ssl:
+    key-store: classpath:xiugou.gejiahedashuaipi.top.jks
+    key-store-type: jks
+    key-store-password:
+  port: 64848
